@@ -35,7 +35,7 @@
 - [x] Callvirt and virtual table binding
 - [x] Explicit overriding for interface and base class method
 - [x] Contravariant/covariant analysis
-- [x] Built-in conservative GC
+- [x] Built-in conservative GC（It's bohem，I have removed）
 - [x] Static constructor
 - [x] Analysis and code generation of try/catch/finally/fault Exception code block
 - [x] Code generation of 1-dim array and multi-dim array
